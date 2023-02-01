@@ -35,6 +35,18 @@
 <img src ="https://visitcount.itsvg.in/api?id=bernardozschaber&icon=2&color=12">
 </p>
 
-## Last Programming Activity🖥️:
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+## Last 7 Days Programming Activity🖥️:
+<details>
+<summary>Coding Activity</summary>
+<img height="400px" width="auto" src ="https://wakatime.com/share/@863b47a6-c5ce-4b9d-847a-fde02ce6b155/09a252e1-fd3c-4da2-b1b0-0846bfabb70d.svg">
+</details>
+
+<details>
+<summary>Languages</summary>
+<img height="400px" width="auto" src ="https://wakatime.com/share/@863b47a6-c5ce-4b9d-847a-fde02ce6b155/4fef2efe-2f7d-4a3e-8a7b-87d81c09f4cc.svg">
+</details>
+
+<details>
+<summary>Operating Systems</summary>
+<img height="400px" width="auto" src ="https://wakatime.com/share/@863b47a6-c5ce-4b9d-847a-fde02ce6b155/ecdaf727-12af-47bc-8e7a-1109963f1842.svg">
+</details>
