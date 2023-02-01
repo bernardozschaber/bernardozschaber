@@ -38,3 +38,5 @@
 ## Last Programming Activity🖥️:
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+![snake gif](https://github.com/bernardozschaber/bernardozschaer/blob/output/github-contribution-grid-snake.svg)
