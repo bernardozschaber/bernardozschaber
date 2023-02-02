@@ -38,6 +38,6 @@
 ## Last 7 Days Programming Activity🖥️:
 <details>
 <summary>Coding Activity</summary>
-<!--START_SECTION:readme-->
-<!--END_SECTION:readme-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 </details>
