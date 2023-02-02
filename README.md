@@ -36,8 +36,5 @@
 </p>
 
 ## Last 7 Days Programming Activity🖥️:
-<details>
-<summary>Coding Activity</summary>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-</details>
