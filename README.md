@@ -34,7 +34,3 @@
 <p align="center">
 <img src ="https://visitcount.itsvg.in/api?id=bernardozschaber&icon=2&color=12">
 </p>
-
-<!-- ## Last 7 Days Programming Activity🖥️: -->
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
