@@ -1,6 +1,3 @@
-
-<!-- ## About me📖: -->
-
 ## Connect with me🌐:
 <div align="center">
 <p align="center">
