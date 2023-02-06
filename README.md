@@ -9,7 +9,6 @@
 <a href="https://www.goodreads.com/user/show/141281727-bernardo" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111431.png" alt="@bernardozschaber" height="40em" /></a>
 <a href="https://monkeytype.com/profile/bernardozschaber" target="_blank"><img align="center" src="https://typingstats.com/partners/monkeytype.png" alt="@bernardozschaber" height="40em" /></a>
 <a href="https://10fastfingers.com/user/3343947/" target="_blank"><img align="center" src="https://i.imgur.com/twOZ4vf.png" alt="@bernardozschaber" height="40em" /></a>
-<a href="https://steamcommunity.com/id/bernardozschaber/" target="_blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2248/PNG/512/steam_icon_135152.png" alt="@bernardozschaber" height="40em" /></a>
 </p>
 </div>
 
