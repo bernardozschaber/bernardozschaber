@@ -1,4 +1,4 @@
-## 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚖𝚎🌐:
+### 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚖𝚎🌐:
 <div align="center">
 <p align="center">
 <a href="https://linkedin.com/in/bernardozschaber" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@bernardozschaber" height="40em" /></a>
@@ -11,7 +11,7 @@
 </p>
 </div>
 
-## 𝙸'𝚖 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐⚙️:
+### 𝙸'𝚖 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐⚙️:
 <div align="center">
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
@@ -19,7 +19,7 @@
 </div>
 
 
-## 𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚜📊:
+### 𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚜📊:
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=bernardozschaber&show_icons=true&count_private=true&theme=bear&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardozschaber&layout=compact&hide_border=true&theme=bear&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
