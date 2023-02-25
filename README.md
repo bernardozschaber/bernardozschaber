@@ -1,4 +1,4 @@
-### 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚖𝚎🌐:
+<!-- ### 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚖𝚎🌐:
 <div align="center">
 <p align="center">
 <a href="https://linkedin.com/in/bernardozschaber" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@bernardozschaber" height="40em" /></a>
@@ -32,3 +32,4 @@
 <p align="center">
 <img src ="https://visitcount.itsvg.in/api?id=bernardozschaber&icon=2&color=12">
 </p>
+ -->
